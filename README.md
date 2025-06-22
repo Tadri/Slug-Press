@@ -1,7 +1,7 @@
 # CAD Project: [Slug Press]
 A Slug Press designed to press 4.5-5.5mm slugs using a Lead Spool and Feeder
 
-This repository contains a 3D modeling project created as part of a Higher Vocational Education (FP) program. It includes CAD files, technical drawings, and optional supporting code.
+This repository contains a 3D modeling project created as part of a Higher Vocational Education program. It includes CAD files, technical drawings, and optional supporting code.
 
 Project Structure
 
